@@ -11,3 +11,7 @@ This repository contains SQL experiments performed as part of the Database Manag
 ### Experiment 2: Insert and Retrieve Data
 - Inserted records into Student table
 - Used `SELECT` to retrieve data
+
+### Experiment 3: Using WHERE Clause
+- Filtered records using `WHERE`
+- Retrieved specific rows based on conditions
